@@ -1,0 +1,29 @@
+{
+  "name": "todd-prod",
+  "version": "1.0.0",
+  "description": "Use this to multiply two variables together.",
+  "main": "multiply.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toddsqui/todd-prod.git"
+  },
+  "keywords": [
+    "npm",
+    "multiply",
+    "mult",
+    "node",
+    "todd-prod"
+  ],
+  "author": "Todd <todd.squitieri@alumni.newschool.edu> (http://www.internationalhustling.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Toddsqui/todd-prod/issues"
+  },
+  "homepage": "https://github.com/Toddsqui/todd-prod#readme",
+  "dependencies": {
+    "todd-sum": "^1.0.1"
+  }
+}
