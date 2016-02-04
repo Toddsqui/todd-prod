@@ -1,7 +1,9 @@
+var sum = require('todd-sum');
+
 module.exports = function mult(a, b) {
-  var originalValue = a;
+  var total = a;
   for (var i = 1; i < b; i++) {
-    a += originalValue;
+    total = sum(a, total);
   }
-  return a;
-}
+  return total;
+};
