@@ -25,5 +25,6 @@
   "homepage": "https://github.com/Toddsqui/todd-prod#readme",
   "dependencies": {
     "todd-sum": "^1.0.1"
-  }
+  },
+  "devDependencies": {}
 }
